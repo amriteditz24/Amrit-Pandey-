@@ -9,9 +9,9 @@ I'm a passionate developer who loves building web applications, exploring new te
 ## 🔗 My Projects & Communities
 
 - 🌐 [coderstar.in](https://coderstar.in) — My personal tech blog and learning platform.
-- 📘 I,m a Admin and owener[NEB Result & News](https://www.facebook.com/share/12K4xLPSrBu/) — Educational news and results updates.
-- 🎓 I,m a Admin and owener [Nepal Educational Hub](https://www.facebook.com/share/1BVwiwjeTP/) — A growing community for students across Nepal.
-- ⚙️ I,m a Admin and owener [Angular Developers](https://www.facebook.com/share/196d5XW9eZ/) — Tech hub for Angular lovers and developers.
+- 📘 I,m a Admin and owener at [NEB Result & News](https://www.facebook.com/share/12K4xLPSrBu/) — Educational news and results updates.
+- 🎓 I,m a Admin and owener at [Nepal Educational Hub](https://www.facebook.com/share/1BVwiwjeTP/) — A growing community for students across Nepal.
+- ⚙️ I,m a Admin and owener at [Angular Developers](https://www.facebook.com/share/196d5XW9eZ/) — Tech hub for Angular lovers and developers.
 
 ## 🚀 What I Do
 
